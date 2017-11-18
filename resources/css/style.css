@@ -1,0 +1,43 @@
+/*html {
+  background-color: gray;
+} */
+body {
+  width: 1200px;
+  background-color: black;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+}
+/*# page-wrap {
+  width: 1000px;
+  margin: auto;
+} */
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+h2  {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+.soon {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+img {
+  align-items: center;
+  padding: 30px;
+}
+.camp {
+  margin-bottom: : 50px;
+}
+footer {
+  text-align: right;
+  color: grey;
+}
